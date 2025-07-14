@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I am Aayush Sahani 
+# I am Aayush kumar
 
 <!--
 **Aayush670-web/Aayush670-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
